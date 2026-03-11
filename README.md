@@ -1,16 +1,56 @@
-## Hi there 👋
+<br clear="both">
 
-<!--
-**kaicps05/kaicps05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello, World!!</h1>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">I'm Kaic 👋</h3>
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/kaic_ps/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/kaic-salha" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<h5 align="left">My name is Kaic, I'm 20 years old and currently studying Computer Engineering.<br>I’m passionate about technology and constantly improving my programming and problem-solving skills. My goal is to grow as a developer and gain real-world experience in the software industry.</h5>
+
+###
+
+<h3 align="left">🎓 Education</h3>
+
+###
+
+<h5 align="left">Computer Engineering Student<br><br>Focused on software development, algorithms, and data structures.</h5>
+
+###
+
+<h3 align="left">💻 Currently Learning</h3>
+
+###
+
+<h5 align="left">Java<br><br>Python<br><br>SQL (Database systems)<br><br>Web development tools and design</h5>
+
+###
+
+<h3 align="left">🚀 Goals</h3>
+
+###
+
+<h5 align="left">Improve my backend development skills<br><br>Build practical projects and contribute to open-source<br><br>Gain professional experience through internships</h5>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://i.pinimg.com/originals/65/87/c0/6587c02f1ff0b4b8686ffc179fcacc1c.gif"  />
+</div>
+
+###
