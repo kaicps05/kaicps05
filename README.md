@@ -47,7 +47,7 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicps05&layout=donut-vertical)](https://github.com/kaicps05/github-readme-stats)
 
 
 <br clear="both">
