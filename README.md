@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">I'm Kaic 👋</h3>
+<h4 align="left">I'm Kaic 👋</h3>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<h3 align="left">🎓 Education</h3>
+<h4 align="left">🎓 Education</h3>
 
 ###
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">💻 Currently Learning</h3>
+<h4 align="left">💻 Currently Learning</h3>
 
 ###
 
@@ -39,13 +39,16 @@
 
 ###
 
-<h3 align="left">🚀 Goals</h3>
+<h4 align="left">🚀 Goals</h3>
 
 ###
 
 <h5 align="left">Improve my backend development skills<br><br>Build practical projects and contribute to open-source<br><br>Gain professional experience through internships</h5>
 
 ###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 <br clear="both">
 
