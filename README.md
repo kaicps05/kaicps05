@@ -1,10 +1,24 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
+</div>
+
+###
+
 <br clear="both">
 
 <h1 align="center">Hello, World!!</h1>
 
 ###
 
-<h4 align="left">I'm Kaic 👋</h3>
+<h3 align="left">I'm Kaic 👋</h3>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaicps05/kaicps05/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaicps05/kaicps05/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kaicps05/kaicps05/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
@@ -23,7 +37,7 @@
 
 ###
 
-<h4 align="left">🎓 Education</h3>
+<h3 align="left">🎓 Education</h3>
 
 ###
 
@@ -31,7 +45,7 @@
 
 ###
 
-<h4 align="left">💻 Currently Learning</h3>
+<h3 align="left">💻 Currently Learning</h3>
 
 ###
 
@@ -39,7 +53,7 @@
 
 ###
 
-<h4 align="left">🚀 Goals</h3>
+<h3 align="left">🚀 Goals</h3>
 
 ###
 
@@ -47,13 +61,23 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaicps05&layout=donut-vertical)](https://github.com/kaicps05/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaicps05&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaicps05&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=transparent&hide_border=false&order=2" height="200" alt="languages graph"  />
+</div>
 
+###
 
 <br clear="both">
 
 <div align="center">
   <img height="400" src="https://i.pinimg.com/originals/65/87/c0/6587c02f1ff0b4b8686ffc179fcacc1c.gif"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
 </div>
 
 ###
